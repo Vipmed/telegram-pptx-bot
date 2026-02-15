@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pptx
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
